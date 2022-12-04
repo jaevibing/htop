@@ -27,6 +27,10 @@ Running `htop` requires `ncurses` libraries, typically named libncurses(w).
 
 For more information and details visit [htop.dev](https://htop.dev).
 
+## How is this fork different?
+
+I changed the keys from function keys to number keys as it's easier to use on my Mac. No other reason. It's no different in that sense.
+
 ## Build instructions
 
 ### Prerequisite
