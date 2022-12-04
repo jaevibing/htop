@@ -17,7 +17,7 @@ pcp-htop
 */*.gcno
 *.h.gch
 */.dirstamp
-
+installscript.sh
 # automake/autoconf related files
 .deps/
 Makefile
