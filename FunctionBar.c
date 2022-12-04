@@ -18,7 +18,7 @@ in the source distribution for its full text.
 #include "XUtils.h"
 
 
-static const char* const FunctionBar_FKeys[] = {"F1", "F2", "F3", "F4", "F5", "F6", "F7", "F8", "F9", "F10", NULL};
+static const char* const FunctionBar_FKeys[] = {"1", "2", "3", "4", "5", "6", "7", "8", "9", "0", NULL};
 
 static const char* const FunctionBar_FLabels[] = {"      ", "      ", "      ", "      ", "      ", "      ", "      ", "      ", "      ", "      ", NULL};
 
