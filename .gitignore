@@ -44,7 +44,7 @@ ltmain.sh
 m4/
 missing
 stamp-h1
-
+*.vim
 # files related to valgrind/callgrind
 callgrind.out.*
 
